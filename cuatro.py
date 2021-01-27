@@ -1,0 +1,2 @@
+#cuatro
+print("4")
