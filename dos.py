@@ -1,2 +1,2 @@
-#dos
-print("dos")
+#mejora 2
+print("mejora dos")
